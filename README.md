@@ -15,4 +15,4 @@ Tools:
 
 ## _Real system (figure 2)_
 
-![alt text](https://github.com/smuminovic/color-sorting-project/blob/main/system.jpg?raw=true)
+![alt text](https://github.com/smuminovic/color-sorting-project/blob/main/System.jpg?raw=true)
